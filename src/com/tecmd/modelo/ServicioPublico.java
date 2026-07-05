@@ -1,4 +1,4 @@
-package com.unir.modelo;
+package com.tecmd.modelo;
 
 // ABSTRACCIÓN: Definimos una clase genérica que representa cualquier servicio
 public abstract class ServicioPublico {

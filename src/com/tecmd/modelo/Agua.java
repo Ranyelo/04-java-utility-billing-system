@@ -1,4 +1,4 @@
-package com.unir.modelo;
+package com.tecmd.modelo;
 
 public class Agua extends ServicioPublico {
     public Agua(String nombre, String ref, double consumo) {

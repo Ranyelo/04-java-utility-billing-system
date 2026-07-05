@@ -1,4 +1,4 @@
-package com.unir.modelo;
+package com.tecmd.modelo;
 
 // HERENCIA: "Energia" ES UN "ServicioPublico"
 public class Energia extends ServicioPublico {

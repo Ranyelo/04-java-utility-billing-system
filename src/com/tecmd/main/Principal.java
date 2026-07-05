@@ -1,7 +1,7 @@
-package com.unir.main;
+package com.tecmd.main;
 
-import com.unir.modelo.*;
-import com.unir.vista.InterfazCalculadora;
+import com.tecmd.modelo.*;
+import com.tecmd.vista.InterfazCalculadora;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;

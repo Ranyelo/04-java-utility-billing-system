@@ -1,4 +1,4 @@
-package com.unir.modelo;
+package com.tecmd.modelo;
 
 public class Gas extends ServicioPublico {
     public Gas(String nombre, String ref, double consumo) {

@@ -1,4 +1,4 @@
-package com.unir.vista;
+package com.tecmd.vista;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
@@ -21,7 +21,7 @@ public class InterfazCalculadora extends JFrame {
     public DefaultTableModel modeloTabla;
 
     public InterfazCalculadora() {
-        setTitle("Sistema UNIR S.A. - Gestión de Servicios Públicos");
+        setTitle("Sistema TecMD S.A. - Gestión de Servicios Públicos");
         setSize(950, 600); // Ventana más ancha para caber la tabla
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);

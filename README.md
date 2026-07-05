@@ -1,4 +1,4 @@
-# SistemaServiciosUNIR - Cálculo de Servicios Públicos
+# SistemaServiciosTecMD - Cálculo de Servicios Públicos
 
 Es una aplicación de escritorio programada en Java para calcular el cobro de facturas de agua, energía y gas. Fue desarrollado para la materia de **Análisis y Diseño de Sistemas** en el programa de **Técnico en Servicios de Seguridad Informática**.
 
